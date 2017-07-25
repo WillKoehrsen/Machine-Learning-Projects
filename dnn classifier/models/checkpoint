@@ -1,2 +1,2 @@
-model_checkpoint_path: "dnn_1"
-all_model_checkpoint_paths: "dnn_1"
+model_checkpoint_path: "mnist_grid_best"
+all_model_checkpoint_paths: "mnist_grid_best"
