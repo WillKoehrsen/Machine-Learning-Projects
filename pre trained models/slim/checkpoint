@@ -1,0 +1,2 @@
+model_checkpoint_path: "inception_v3_flowers.ckpt"
+all_model_checkpoint_paths: "inception_v3_flowers.ckpt"
