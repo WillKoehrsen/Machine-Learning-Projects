@@ -1,0 +1,5 @@
+model_checkpoint_path: "inception_v3_faces_flipped.ckpt"
+all_model_checkpoint_paths: "inception_v3_faces_unaugmented.ckpt"
+all_model_checkpoint_paths: "inception_v3_faces_augmented.ckpt"
+all_model_checkpoint_paths: "inception_v3_faces_restart_augmented.ckpt"
+all_model_checkpoint_paths: "inception_v3_faces_flipped.ckpt"
